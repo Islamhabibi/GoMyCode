@@ -1,0 +1,24 @@
+ul{
+    list-style-position: inside;
+   color: blueviolet;
+}
+.taille{
+    font-size: 25px;
+}
+.taille:hover{
+    color: black;
+    font-size: 15px;
+}
+.cent{
+    text-align: center;
+}
+table, th, td{
+    border: 1px solid royalblue;
+    border-radius: 5%;
+}
+input:focus{
+    background-color: bisque;
+}
+textarea:hover{
+    background-color: antiquewhite;
+}
